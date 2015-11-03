@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Just Thinking]]></title>
+        <description><![CDATA[Just Thinking]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 Nov 2015 16:59:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[When I Grow Up]]></title>
+            <description><![CDATA[<article><h1>When I Grow Up</h1><p>A Short History </p></article>]]></description>
+            <link>undefinedwhen-i-grow-up/index.html</link>
+            <guid isPermaLink="false">e4d37644-1b54-4f5c-bba6-67741f185551</guid>
+            <pubDate>Tue, 03 Nov 2015 16:59:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
