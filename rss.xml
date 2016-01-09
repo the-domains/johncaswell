@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Just Thinking]]></title>
+        <description><![CDATA[Just Thinking]]></description>
+        <link>https://thegrid.ai/johncaswell/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 18:57:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/johncaswell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/johncaswell/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">60817e7c-0c1a-4cff-bbb8-4884fb42454b</guid>
+            <pubDate>Sat, 09 Jan 2016 18:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making A Difference]]></title>
+            <description><![CDATA[<article><h1>Making A Difference</h1><p>OK so here's the new imagery we are building to explain our concept of Making A Difference. There's a lot more going on here: </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb88d238a4b4a3051dd0dd79a5ec18454b6fc18c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/johncaswell/making-a-difference/index.html</link>
+            <guid isPermaLink="false">b8460622-e700-48fc-8c3b-31292f383297</guid>
+            <pubDate>Sat, 09 Jan 2016 18:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When I Grow Up]]></title>
+            <description><![CDATA[<article><h1>When I Grow Up</h1><p>A Short History </p></article>]]></description>
+            <link>https://thegrid.ai/johncaswell/when-i-grow-up/index.html</link>
+            <guid isPermaLink="false">e4d37644-1b54-4f5c-bba6-67741f185551</guid>
+            <pubDate>Tue, 03 Nov 2015 16:59:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
