@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our mission and ambition
-datePublished: '2015-11-03T17:14:13.334Z'
-dateModified: '2015-11-03T17:13:42.531Z'
+datePublished: '2016-01-09T18:56:48.837Z'
+dateModified: '2015-11-03T17:14:13.334Z'
 title: Making A Difference
 authors: []
 publisher:
@@ -17,6 +17,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2015-11-03-making-a-difference.md
 published: true
+author: []
 url: making-a-difference/index.html
 _type: Article
 
