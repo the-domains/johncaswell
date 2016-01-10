@@ -6,24 +6,28 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our mission and ambition
-datePublished: '2016-01-09T18:56:48.837Z'
-dateModified: '2015-11-03T17:14:13.334Z'
-title: Making A Difference
+datePublished: '2016-01-10T11:22:51.972Z'
+dateModified: '2016-01-10T11:00:18.383Z'
+title: "We Are Always Trying To Making A Difference.\_"
+sourcePath: _posts/2015-11-03-making-a-difference.md
+published: true
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-03-making-a-difference.md
-published: true
-author: []
 url: making-a-difference/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd0554ff-b8bb-4fc3-b201-6fe4e5a1dca9.jpg)
+# We Are Always Trying To Making A Difference. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/372e0493-c10f-422e-99a2-40ba5c11de66.jpg)
 
-OK so here's the new imagery we are building to explain our concept of Making A Difference. [There's a lot more going on here: ][0]
+It involves us being structured in our approach, visual in our application and provoking thoughtfulness at every turn
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/718ea8c9-c5f0-4cc1-91a7-1d6f1ca1c57b.jpg)
 
-[0]: https://medium.com/the-a-z-of-group-partners/group-partners-v2-0-16ffd6a45687#83a5
+Success means looking at the situation from everyone's perspective and deciding what matters
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6965c9df-82c9-4013-9da3-8e2430283489.jpg)
+
+Symptoms aren't always the same things as causes. We need to consider each situation from a systemic perspective
