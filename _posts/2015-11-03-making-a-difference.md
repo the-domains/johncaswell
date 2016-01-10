@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our mission and ambition
-datePublished: '2016-01-10T13:07:50.805Z'
-dateModified: '2016-01-10T13:07:43.542Z'
+datePublished: '2016-01-10T13:10:25.004Z'
+dateModified: '2016-01-10T13:10:15.471Z'
 title: "We Are Always Trying To Making A Difference.\_"
 sourcePath: _posts/2015-11-03-making-a-difference.md
 published: true
@@ -22,7 +22,7 @@ url: making-a-difference/index.html
 _type: Blurb
 
 ---
-# We Are Always Trying To Making A Difference. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/372e0493-c10f-422e-99a2-40ba5c11de66.jpg)
+## Making A Difference. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/372e0493-c10f-422e-99a2-40ba5c11de66.jpg)
 
 It involves us being structured in our approach, visual in our application and provoking thoughtfulness at every turn
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/718ea8c9-c5f0-4cc1-91a7-1d6f1ca1c57b.jpg)
