@@ -1,5 +1,8 @@
+name: johncaswell
+favicon: null
+layout_spectrum: 0.97036
+typography_spectrum: 0.5556492
 title: Just Thinking
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6644182
-  brandStrength: 1
-  lightness: 0.801855
   brandColors:
     - '#C6C8C6'
     - '#302E29'
     - '#CF424B'
     - '#889943'
     - '#546E88'
+  brandStrength: 1
+  lightness: 0.801855
+  saturation: 0.6644182
   rhythmicContrast: 0.8381113
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: johncaswell
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5556492
-layout_spectrum: 0.3052277
+purpose: []
