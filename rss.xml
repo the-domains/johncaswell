@@ -4,7 +4,7 @@
         <description><![CDATA[Just Thinking]]></description>
         <link>https://thegrid.ai/johncaswell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 11:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 12:12:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johncaswell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Critical Thinking]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/johncaswell/making-a-difference/index.html</link>
             <guid isPermaLink="false">b8460622-e700-48fc-8c3b-31292f383297</guid>
             <pubDate>Sun, 10 Jan 2016 11:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When I Grow Up]]></title>
-            <description><![CDATA[<article><h1>When I Grow Up</h1><p>A Short History </p></article>]]></description>
-            <link>https://thegrid.ai/johncaswell/when-i-grow-up/index.html</link>
-            <guid isPermaLink="false">e4d37644-1b54-4f5c-bba6-67741f185551</guid>
-            <pubDate>Tue, 03 Nov 2015 16:59:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
