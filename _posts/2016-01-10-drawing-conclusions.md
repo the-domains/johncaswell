@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Applying The Science Of Frameworks
-datePublished: '2016-01-10T12:44:39.128Z'
-dateModified: '2016-01-10T12:44:03.650Z'
+datePublished: '2016-01-10T13:07:00.884Z'
+dateModified: '2016-01-10T13:06:50.262Z'
 title: Drawing Conclusions
 author: []
+sourcePath: _posts/2016-01-10-drawing-conclusions.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-drawing-conclusions.md
-published: true
 url: drawing-conclusions/index.html
-_type: Article
+_type: Blurb
 
 ---
 What Matters?
