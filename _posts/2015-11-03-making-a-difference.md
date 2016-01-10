@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Our mission and ambition
-datePublished: '2016-01-10T11:22:51.972Z'
-dateModified: '2016-01-10T11:00:18.383Z'
+datePublished: '2016-01-10T13:07:50.805Z'
+dateModified: '2016-01-10T13:07:43.542Z'
 title: "We Are Always Trying To Making A Difference.\_"
 sourcePath: _posts/2015-11-03-making-a-difference.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: making-a-difference/index.html
-_type: Article
+_type: Blurb
 
 ---
 # We Are Always Trying To Making A Difference. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/372e0493-c10f-422e-99a2-40ba5c11de66.jpg)
